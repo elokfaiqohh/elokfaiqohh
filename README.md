@@ -34,7 +34,7 @@
 
 <p align="left">
 <a href="https://github.com/elokfaiqohh">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elokfaiqohh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elokfaiqohh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&random=<?php echo rand(); ?>"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elokfaiqohh&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
 </a>
 </p>
