@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elok Faiqoh</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Fullstack Web Dev</h3>
 
 - ✨ I’m a student of Informatics Engineering at **Universitas Negeri Surabaya**, focusing on **Web Development**.
 
