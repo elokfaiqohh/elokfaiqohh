@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js and Laravel**
 
-- 👨‍💻 All of my projects are available at [elokfaiqohh.github.io](https://elokfaiqohh.github.io)
+- 👨‍💻 All of my projects are available at [elokfaiqoh.vercel.app](https://elokfaiqoh.vercel.app/)
 
 - 📫 How to reach me **elokfaiqoh885@gmail.com**
   
