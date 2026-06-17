@@ -25,26 +25,6 @@ Passionate about building impactful digital solutions through Software Engineeri
 
 ---
 
-## 🏆 Highlights
-
-- 🎖 Research Grant Recipient — **LPPM UNESA Student Research Program 2026**
-- 🏅 Finalist — **National Maritime Student Competition (KKMN) 2025**
-- 🏆 Funnyest Opinion Award — **National Opinion Writing Competition 2026**
-- 🥈 2nd Place — **Final Project Web Development Competition 2023**
-- 🥇 1st Place — **Procommit Programming Competition 2022**
-
----
-
-## 💡 Selected Innovation Projects
-
-- **GiziLens** — AI-powered mHealth platform for nutrition estimation and stunting prevention.
-- **SAMUDRA AI** — Maritime intelligence platform for illegal fishing hotspot detection using AIS and geospatial analytics.
-- **Nautica Shield** — AI-powered maritime border security and hazard interdiction system.
-- **Finsight** — AI financial assistant for smarter personal financial management.
-- **NeoTerra Glass** — Smart urban farming concept integrating renewable energy and blockchain-based food traceability.
-
----
-
 # 💻 Tech Stack
 
 ### Frontend
