@@ -19,8 +19,6 @@ Passionate about building impactful digital solutions through Software Engineeri
 
 - 🔬 Actively involved in **research, innovation programs, hackathons, and technology competitions**
 
-- 🚢 Interested in applying technology across various domains, including **Healthcare, Education, Business Intelligence, Agriculture, Financial Technology, and Maritime Technology**
-
 - 👨‍💻 Portfolio Website: **https://elokfaiqoh.vercel.app**
 
 - 📫 Reach me at: **elokfaiqoh885@gmail.com**
